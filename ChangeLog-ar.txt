@@ -1,45 +1,45 @@
-{"version_code":451199,"content":"
-<p>تحديث 1.00</p>
+{"version_code":451205,"content":"
+<p>تحديث 3.00</p>
 
-<li>التحديث لنسخة الماركت 2.17.427</li>
-<li>إضافة فيسات الواتساب الجديدة</li>
-<li>(حصريا) يمكنك الان ايقاف الانترنت عن الواتساب ويبقى الانترنت يعمل في البرامج الاخرى</li>
-<li>إضافة الخيار رقم 5.6  لرفع فيديو في الحالة مدته 7 دقائق بدلا من 30 ثانية</li>
-<li>الان في المجموعات سوف يظهر (مشرف المجموعة) بجانب اسم المشرف</li>
-<li>إضافة الخيار رقم 2.7.7 لتغيير حجم الزر العائم</li>
-<li>إضافة الخيار رقم 2.7.8 لتغيير مكان الزر العائم(يسار او يمين الشاشة)</li>
-<li>إضافة ملصق الساعة</li>
-<li>إضافة الخيار رقم 2.1.10 لإخفاء ايقونة ايقاف الانترنت من شاشة المحادثات</li>
-<li>تفعيل ميزة اشعار جهات اتصالك عند تغيير رقمك</li>
-<li>إضافة امكانية التحكم باعدادات المجموعة فقط للمشرفين(سوف تتفعل قريبا من قبل السيرفر)</li>
-<li>دعم اللغة الالمانية</li>
-<li>تحسين ميزة ارسال رسالة لرقم غير محفوظ في جهازك</li>
-<li>إصلاح عدم عمل الخيار رقم 6.2 عند استقبال عدة صور(البوم)</li>
-<li>إصلاح الخيار رقم 6.11 في بعض الإصدارات</li>
-<li>إصلاح الانهيار عند فتح المحادثات التي فعلت خصوصيتها</li>
-<li>إصلاح مشكلة عدم (فشل تشغيل هذا الفيديو) في بعض الاجهزة</li>
-<li>إصلاح الوان شريط الحالة عند تحديد رسالة/محادثة</li>
+<li>التحديث لنسخة الماركت 2.18.122</li>
+<li>يمكن للمشرفين الان منع الاعضاء من ارسال الرسائل في المجموعات</li>
+<li>يمكنك الان تسجيل مقاطع صوتية بدون الحاجة للضغط المطول على زر تسجيل الصوت</li>
+<li>يمكن تخصيص الرد التلقائي لمحادثات معينة او استثناء محادثات معينة</li>
+<li>إضافة الخيار رقم 2.7.9 لاختيار شكل الزر العائم كالواتس الرسمي</li>
+<li>إضافة الخيار رقم 2.1.11 لاخفاء زر انشاء دردشة جديدة من المحادثات</li>
+<li>إضافة الخيار رقم 6.20 لتعطيل ظهور تنبيه بان هناك رسائل مسترجعة(محذوفة)</li>
+<li>إضافة خيار لتعطيل الرد التلقائي في حال اخفاء صحين القراءة</li>
+<li>إضافة الخيار رقم 1.1.16 لإظهار ايقونة الفيديو في المحادثة</li>
+<li>يمكنك الان معرفة المحادثات التي قمت بتفعيل التحميل التلقائي لها.(افتح الواتساب - خيارات - المحادثات المخصصة)</li>
+<li>يمكنك الان البحث عن الثيمات من خلال اسم الثيم</li>
+<li>إصلاح لون الاسماء عند اضافة عضو جديد لاي مجموعة</li>
+<li>إصلاح لون فقاعات الدردشة</li>
+<li>إصلاح إخفاء اشارة التشغيل</li>
+<li>إصلاح عدم ظهور ايقونة الارفاق في محادثة الرسائل الجماعية</li>
+<li>إصلاح لون الشريط العلوي للمحادثات المخفية و المؤرشفة</li>
+<li>تحديث اللغة الايطالية والبرازيلية</li>
 <li>إصلاحات اخرى</li>
 
-<li> New Base Updated to 2.17.427</li>
-<li> Added New Emojis</li>
-<li> Exclusive DND Mode (Disable Internet only for WhatsApp) (Home Page - Header)</li>
-<li> Added Option to Increase Video Limit in Status (Mod 5.6)</li>
-<li> Exclusive Ability to identify Admin Msg in Group (Besides Number) </li>
-<li> Exclusive Option to Change Fab Size (Mod 2.7.7)</li>
-<li> Exclusive Option to Change Fab Location/Position (Mod 2.7.8)</li>
-<li> Enabled Change Number Notification</li>
-<li> Enabled Clock Sticker</li>
-<li> Enabled Group Info Settings (Will Work when Enabled from Server)</li>
-<li> Added Option to Hide DND Mode Icon (mod 2.1.10)</li>
-<li> Improved Dialer (Now you can Edit, Copy, Paste Numbers)</li>
-<li> Added German Language Support</li>
-<li> Fixed Navigation Bar Color when Select any chat/message</li>
-<li> Fixed Mod 6.2 when Send/Receive More than 1 pic. </li>
-<li> Fixed Mod 6.11 for Android Oreo. </li>
-<li> Fixed Play Videos in some devices</li>
-<li> Fixed Crash when open Custom Privacy Chats</li>
-<li> Other Fixes</li>
+<li> New Base Updated to 2.18.122</li>
+<li> Exclusively Improved Option for Specific/Except Contacts/Groups in Auto-Reply</li>
+<li> Improved No Need to Restart When use Privacy except for Hide Last Seen</li>
+<li> Enabled Locked Voice Recordings (Press and Swipe up/No need to hold for Recording) </li>
+<li> Enabled Group Settings - Send Messages (Once Enabled only Admin can Send Messages in Group)</li>
+<li> Added Stock Fab (Mod 2.7.9)</li>
+<li> Added Option to Hide New Chat Icon from Header (Mod 2.1.11)</li>
+<li> Added Option for Disable Revoked Message Notification(Mod 6.20)</li>
+<li> Added Option to Disable Auto-Reply when Hide Read</li>
+<li> Added Option to Enable Video Icon in Conversation Header (Mod 1.1.16)</li>
+<li> Added Custom Media Auto-Download in Custom Chats</li>
+<li> Added Now You can Search by Name in Theme Server</li>
+<li> Updated Italian & Brazilian language</li>
+<li> Fixed Contacts Name Color when Add Participants</li>
+<li> Fixed Bubble Color</li>
+<li> Fixed Privacy for Blue Microphone</li>
+<li> Fixed GIF Background Color</li>
+<li> Fixed Attach Icon not Showing in Broadcast chat</li>
+<li> Fixed Action Bar Color, Icon Background color, Count color in Hidden Chats & Archived Chats</li>
+<li> Many Other Fixes</li>
 
-","url":"http://www.gbmods.co/?p=19"
+","url":"https://wp.me/p9Th6c-1b"
 }
