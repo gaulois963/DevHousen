@@ -9,5 +9,5 @@
 
 <li> توجد لديهم مشاكل في الاصدار v4.00 تم حل جميع المشاكل في اصدار V4.10</li>
 
-","url":"https://www.hs-mods.com/2018/09/19/hswhatsappv4-00/"
+","https://www.hs-mods.com/2018/09/25/hswhatsapp-v4-10/"
 }
