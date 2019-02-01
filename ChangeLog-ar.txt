@@ -1,4 +1,4 @@
-{"version_code":45120,"content":"
+{"version_code":451210,"content":"
 <p>تحديث 5.00</p>
 
 <li>السلام عليكم ورحمة الله وبركاته</li>
@@ -11,5 +11,5 @@
 
 
 
-","url":"https://www.majedkablan.com/?m=1"
+","url":"http://www.hs-mods.com/"
 }
