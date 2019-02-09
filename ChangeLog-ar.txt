@@ -1,15 +1,29 @@
 {"version_code":451210,"content":"
 <p>تحديث 5.00</p>
 
-<li>السلام عليكم ورحمة الله وبركاته</li>
-<li>رسالة دعم وليس تحديث</li>
-<li>سيتم إيقاف الرسالة خلال 24 ساعة</li>
-<li> الرجاء دعم الموقع والضغط على الإعلانات لدعم المطور في لتحديث واتساب القبلان/li>
-<li>لينكس المحترف للمعلوماتية</li>
-<li> المطور حسين محمد</li>
-<li> تحياتي لكم متابعينا الأعزاء</li>
+<li>يمكنك اضافة ملصقات للواتساب من تطبيقات الماركت</li>
+<li>إضافة خطوط جديدة</li>
+<li>إضافة ايقونات جديدة</li>
+<li>إضافة الخيار 6.21 لتعطيل فتح المحادثات المخفية بعد الضغط على كلمة WhatsApp</li>
+<li>يمكنك ترتيب عرض الرسائل حسب الاقدم او الاحد بعد عرض الرسائل المرسلة من قبل اي شخص في المجموعة </li>
+<li>يمكنك تثبيت ٣٠ محادثة بدلا من ٢٥ محادثة</li>
+<li>إضافة نافذة تأكيد عند الاتصال بشخص ما من داخل المجموعة</li>
+<li>اصلاح الايقاف الاجباري عندي اختيار اكثر من شخص في قائمة الرد التلقائي و الرسائل المجدولة</li>
+<li>اصلاح خيار تغيير اللغة في اصدار اوريو واعلى</li>
+<li>اصلاح ظهور نافذة عرض الرسائل المرسلة بعد الضغط على عرض المزيد في معلومات المجموعة</li>
+<li>إصلاحات اخرى</li>
 
+<li> Added Now You can Add Stickers From PlayStore to any Package</li>
+<li> Added New Fonts</li>
+<li> Added New Launcher Icons</li>
+<li> Added Option to Disable click on Header for Hidden Chats (Mod 6.21)</li>
+<li> Added Now You can Sort Messages Sent By (Newest/Oldest) </li>
+<li> Added Confirmation Dialog when Call in Group Chat</li>
+<li> Increased Pin Chats from 25 to 30</li>
+<li> Fixed Force Close when Select more than 2 contacts in Auto Reply/Message Scheduler </li>
+<li> Fixed Change App Language in Android Oreo and Pie</li>
+<li> Fixed Showing View Messages sent By when Click on More Contacts in Group Profile</li>
+<li> Many More Fixes</li>
 
-
-","url":"http://www.hs-mods.com/"
+","url":"https://www.hs-mods.com/2018/11/28/hswhatsaapv5-00"
 }
