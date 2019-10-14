@@ -1,5 +1,5 @@
 {"version_code":452435,"content":"
-<p>تحديث 5.30</p>
+<p>تحديث 5.40</p>
 
 <li>يمكنك اضافة ملصقات للواتساب من تطبيقات الماركت</li>
 <li>إضافة خطوط جديدة</li>
@@ -25,5 +25,5 @@
 <li> Fixed Showing View Messages sent By when Click on More Contacts in Group Profile</li>
 <li> Many More Fixes</li>
 
-","url":"https://www.hs-mods.net/2019/09/hswhatsapp-v530.html"
+","url":"https://www.hs-mods.net/2019/10/hswhatsapp-v540.html"
 }
